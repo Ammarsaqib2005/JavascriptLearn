@@ -1,2 +1,2 @@
-# JavascriptBeg.
+# JavascriptLearn
 Learning Javascript from scratch
